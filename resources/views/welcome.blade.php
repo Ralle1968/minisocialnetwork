@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel yes!!Super Framework!!
+                    Laravel yes!!Super Framework!!Really!!P
                 </div>
 
                 <div class="links">
