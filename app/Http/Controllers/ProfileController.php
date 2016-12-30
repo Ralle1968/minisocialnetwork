@@ -9,6 +9,6 @@ class ProfileController extends Controller
 {
     public function profile($username) {
     	$user = User::whereUsername($username)->first();
-    	return $user;
+    	return view('users.profile', compact('user'));
     }
 }
